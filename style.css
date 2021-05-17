@@ -85,3 +85,27 @@ padding: 1rem 0;
     margin: .5rem 0 1.5rem 3rem;
     padding: 0;
   }
+/* SMARTPHONE */
+@media (max-width: 600px) {
+    #main-header {
+      position: absolute;
+      top: 0;
+      width: 100%;
+      margin: 0;
+      max-width: 95%;
+      max-height: 400px;
+    }
+  
+    #navbar {
+      width: 100%;
+      margin: 0;
+    }
+  
+    #main-doc {
+      position: relative;
+      margin-left: 0px;
+      padding: 2rem 1rem;
+      margin-top: 410px;
+    }
+  
+  }
