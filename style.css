@@ -85,8 +85,8 @@ padding: 1rem 0;
     margin: .5rem 0 1.5rem 3rem;
     padding: 0;
   }
-/* SMARTPHONE */
-@media (max-width: 600px) {
+/* MEDIA QUERY FOR 600 PX DEVICES*/
+@media(max-width: 600px) {
     #main-header {
       position: absolute;
       top: 0;
